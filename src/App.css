@@ -1,0 +1,4 @@
+@font-face {
+  font-family: 'Okta';
+  src: local('Okta'), url(./assets/okta-bold-italic.otf) format('opentype');
+}
